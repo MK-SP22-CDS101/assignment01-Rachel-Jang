@@ -28,9 +28,13 @@ urlcolor: blue
 <!-- Write your Markdown below this line -->
 
 #**Section** 
-##**Section 001**
+**Section 001**
+
 #**Course Goals**
 By the end of the course, students will be able to:
-- Use
+
+* Use [GitHub](https://github.com/) for creating a reproducible research document. 
+
+      --My GitHub username is: *Rachel-Jang*
 
 
